@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'CupcakeWebApp-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AD74552F32134D26891F51396B3E62F5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_122CAE28206948F0822A1D32DB00F98D }}
           package: .
